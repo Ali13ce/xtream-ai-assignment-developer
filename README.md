@@ -69,3 +69,7 @@ Observability is key. Save every request and response made to the APIs to a **pr
 
 ## How to run
 Please fill this section as part of the assignment.
+
+🦎
+
+[comment]: # (I'll be back here soon)
