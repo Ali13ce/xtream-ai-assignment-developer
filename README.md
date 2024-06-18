@@ -72,4 +72,11 @@ Please fill this section as part of the assignment.
 
 🦎
 
-[comment]: # (I'll be back here soon)
+The notebook is designed to run on Colab, with the original code left unchanged. 
+At the end of each block related to the two models, I have added a brief "extra analysis" section where I provide additional insights and comments.
+
+The notebook includes two challenges, the first two, while challenges 3 and 4 were not performed. 
+All comments and analyses are included within their respective sections and the concluding part. The code is based on specific assumptions, which are explained in the text.
+
+To run the notebook, no special steps are required. 
+Simply download it and upload it to your Colab environment, or use the provided link. Then, log into your Google account and run the code.
