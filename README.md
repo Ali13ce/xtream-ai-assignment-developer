@@ -80,3 +80,4 @@ All comments and analyses are included within their respective sections and the 
 
 To run the notebook, no special steps are required. 
 Simply download it and upload it to your Colab environment, or use the provided link. Then, log into your Google account and run the code.
+[Colab Notebook Link](https://colab.research.google.com/drive/1l-7rrrjh5EDRpOtUwBd6eMcinBJUrAgN?usp=sharing)
